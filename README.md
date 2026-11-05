@@ -247,7 +247,7 @@ https://github.com/suriyaprakasharjunan/ML-ASSIGNMENT-2
 
 **Streamlit Community Cloud URL:**
 
-To be updated after successful deployment.
+https://ml-assignment-2-bwu5keawahbilhxf8m6ew8.streamlit.app/
 
 ## 12. Project Structure
 
